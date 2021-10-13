@@ -1,0 +1,14 @@
+{
+    "name": "wrapped-in-css",
+    "version": "0.0.1",
+    "description": "Wrapped in css",
+    "scripts": {
+
+    },
+    "author": "H1st_",
+    "license": "ISC",
+    "files": [
+        "wrapped-in-css"
+    ]
+
+}
